@@ -1,0 +1,22 @@
+{
+  "name": "themekraft/buddyforms-custom-login-page",
+  "description": "User a Custom Login and define the Login Redirect and Registration Link",
+  "type": "wordpress-plugin",
+  "keywords": ["custom login", "buddyforms"],
+  "homepage": "https://github.com/BuddyForms/BuddyForms-Custom-Login",
+  "license": "GPL-2.0+",
+  "authors": [
+    {
+      "name": "Sven Lehnert",
+      "email": "svenl@themekraft.com"
+    },
+    {
+      "name": "Guillermo Figueroa Mesa",
+      "email": "gfirem@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+  	"consolidation/robo": "^1.0.0"
+  }
+}
